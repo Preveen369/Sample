@@ -1,1 +1,2 @@
 I had also created the text3.txt file.
+This is my third text file.
